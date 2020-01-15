@@ -10,6 +10,8 @@ Homepage: https://weechat.org/
 
 `docker run -it juvester/weechat`
 
+(If you happen to get just a blank screen, try resizing the terminal window. Docker seems to have difficulties figuring out the terminal size sometimes: https://github.com/moby/moby/issues/33794)
+
 Docker Hub page: https://hub.docker.com/r/juvester/weechat
 
 (This repo is for https://docker-hy.github.io/)
